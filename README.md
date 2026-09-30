@@ -10,6 +10,7 @@ O [TikTok exige](https://developers.tiktok.com/docs/en/getting-started-create-an
 - Privacidade: https://gbseca.github.io/cafo-clips-info/privacy.html
 - Termos: https://gbseca.github.io/cafo-clips-info/terms.html
 - Repositório público: https://github.com/Gbseca/cafo-clips-info
+- Ícone PNG de 1024×1024 para o cadastro do aplicativo TikTok: `icon.png`
 
 Revise as páginas quando o aplicativo mudar. O contato público aprovado aponta para o perfil GitHub `Gbseca`. Quando o TikTok fornecer o arquivo de assinatura para verificação por prefixo de URL, coloque-o exatamente no caminho solicitado nesse repositório e publique novamente. O aplicativo TikTok, suas permissões e a aprovação ainda precisam ser criados pelo titular da conta.
 
